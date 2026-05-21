@@ -8,7 +8,7 @@ Google Android Developer course (Unit 3).
 
 ## 📱 Screenshots
 
-![Home screen](![screenshots.jpeg](../../Documents/screenshots.jpeg)screenshots.png)
+![Home Screen](screenshots/screenshot.jpeg)
 
 ---
 
