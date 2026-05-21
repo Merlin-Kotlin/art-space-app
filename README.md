@@ -8,8 +8,7 @@ Google Android Developer course (Unit 3).
 
 ## 📱 Screenshots
 
-<!-- Add screenshots after you take them -->
-Coming soon
+![Home screen](![screenshots.jpeg](../../Documents/screenshots.jpeg)screenshots.png)
 
 ---
 
